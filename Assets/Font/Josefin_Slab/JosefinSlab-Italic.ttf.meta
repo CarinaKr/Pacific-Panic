@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: cb9b3771bbcfe4876914f848a0229d42
+timeCreated: 1512787013
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Josefin Slab
+  fontNames:
+  - Josefin Slab
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 001081c4e4a764a228b1b0c754d86b64, type: 3}
+  - {fileID: 12800000, guid: 3f26ae157eede4b27a072ffa0169a102, type: 3}
+  - {fileID: 12800000, guid: 70de28a8ac7ae491aa7859ab4519d9f2, type: 3}
+  - {fileID: 12800000, guid: 27ddb95c09c9d411cb546f961b916554, type: 3}
+  - {fileID: 12800000, guid: 287b47fca60ab4e7aa05ab8d9861ebc9, type: 3}
+  - {fileID: 12800000, guid: 8207f46f838514105808ed1ece7e98ae, type: 3}
+  - {fileID: 12800000, guid: 7bbcac6f1b62149809878354b5739d0b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
